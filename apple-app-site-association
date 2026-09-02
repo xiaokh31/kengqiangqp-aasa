@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "com.gfdh.tjrty",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "com.hwgame.hnmj",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "com.hwgame.scmj",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "com.hwgame.sdmj",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
